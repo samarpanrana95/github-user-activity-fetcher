@@ -1,0 +1,21 @@
+{
+  "name": "github-user-activity-fetcher",
+  "version": "1.0.0",
+  "description": "A simple command line interface program to fetch a recent activity of a github user and display it in the terminal",
+  "main": "index.js",
+  "scripts": {
+    "github-activity": "python main.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarpanrana95/github-user-activity-fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarpanrana95/github-user-activity-fetcher/issues"
+  },
+  "homepage": "https://github.com/samarpanrana95/github-user-activity-fetcher#readme"
+}
